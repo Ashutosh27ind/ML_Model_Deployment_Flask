@@ -10,14 +10,14 @@ Its build around Werkzeug and Jinja.
 We use the telecom churn prediction problem for showcasing the deployment. The output of the model is either 0(Not Churn) or 1(Churn).  
 We would follow the machine learning pipeline for this. The steps followed are as follows:  
   
-Data Acquisition  
-Data Pre-Processing  
-Feature Engineering  
-Train the Model  
-Save the Model  
-Create an API using Flask  
-Test API in Postman  
-Create a Webpage and test the application  
+•	Data Acquisition  
+•	Data Pre-Processing  
+•	Feature Engineering  
+•	Train the Model  
+•	Save the Model  
+•	Create an API using Flask  
+•	Test API in Postman  
+•	Create a Webpage and test the application  
   
 How to run the application ?  
   
