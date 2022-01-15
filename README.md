@@ -1,5 +1,7 @@
 # ML_Model_Deployment_Flask  
 Deploy a Machine Learning models in production as APIs(Flask)  
+
+![alt text](https://github.com/Ashutosh27ind/ML_Model_Deployment_Flask/blob/main/Capture.PNG?raw=true)
   
 This project demonstrates use of Flask web framework for model deployment.    
     
