@@ -17,7 +17,7 @@ We would follow the machine learning pipeline for this. The steps followed are a
 5.	Save the Model  
 6.	Create an API using Flask  
 7.	Test API in Postman  
-8.	Create a Webpage and test the application  
+8.	Create a Webpage(UI) and test the deployed model via web application
   
 ## How to run the application ?  
   
