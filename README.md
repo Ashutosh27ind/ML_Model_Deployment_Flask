@@ -29,5 +29,7 @@ Option 1 : Through the web page UI application (preferred for users):
   1.3 Input the required features and click on predict button to get the the ouput as churn or not  
     
 Option 2 : Through the terminal for debugging:  
-  2.1 Run : python request.py
-  2.2 Update and run the request json data as and when needed 
+  2.1 Run : python request.py  
+  2.2 Update and run the request json data as and when needed   
+    
+    
