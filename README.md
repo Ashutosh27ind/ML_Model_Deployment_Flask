@@ -4,8 +4,8 @@ Deploy a Machine Learning models in production as APIs(Flask)
 ![alt text](https://github.com/Ashutosh27ind/ML_Model_Deployment_Flask/blob/main/Capture.PNG?raw=true)
   
 This project demonstrates use of Flask web framework for machine learning model deployment.    
-    
-FLASK is a python web framework that allows to build REST based API services quickly with minimum configuration and hassle.    
+      
+*FLASK* is a python web framework that allows to build REST based API services quickly with minimum configuration and hassle.    
 Its build around Werkzeug and Jinja.    
   
 ## Problem Statement :  
